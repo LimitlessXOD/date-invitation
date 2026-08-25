@@ -1,0 +1,6 @@
+{
+  "name": "Date Invitation",
+  "description": "An interactive, playful and cinematic date invitation experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
