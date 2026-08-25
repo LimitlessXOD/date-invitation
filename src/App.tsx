@@ -221,9 +221,6 @@ export default function App() {
       </main>
 
       {/* Minimalist discreet footer */}
-      <footer className="relative z-10 py-3 text-center text-[10px] tracking-[0.18em] uppercase text-stone-500 font-mono">
-        An invitation after dark
-      </footer>
     </div>
   );
 }
